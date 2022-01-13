@@ -1,0 +1,1 @@
+<p> Les informations de l'article ont été mises à jour! </p>

@@ -1,0 +1,1 @@
+<p>L'utilisateur n'est plus administrateur</p>
